@@ -1,3 +1,4 @@
+/*
 // Extra small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
 
@@ -16,13 +17,27 @@
 
 .my-col {
     background-color: grey;
+    
    
 }
 
 .container {
     background-color: lightskyblue;
 }
+*/
 
-body {
-    width: 100%;
+.my-row {
+    background-color: red;
+    
+}
+
+.my-row2 {
+    background-color: yellow;
+}
+
+.cards {
+    display: inline-block;
+}
+.container {
+    width: 1500px;
 }
